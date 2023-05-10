@@ -13,6 +13,7 @@ Comecei minha jornada pela computação pesquisando em fóruns e experimentando 
 <a><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a><img height= "35" src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a><img height= "35" src= "https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=yellow"></a>
 
 #
 
