@@ -1,7 +1,6 @@
 # Olá sou Vinicius Moreira
 
-Comecei minha jornada pela computação pesquisando em fóruns e experimentando trechos de HTML em blogs. Hoje souDesenvolvedor de Sistemas com especialização em Back End Node JS e tenho interesse em conhecer as mais diversaslinguagens da computação. Trabalho com desenvolvimento Back-end com NodeJS desde 2021, no momento estouestudando REACT.
-
+Comecei minha jornada pela computação pesquisando em fóruns e experimentando trechos de HTML em blogs. Hoje sou Desenvolvedor full stack com especialização em Back End Node JS e tenho interesse em conhecer as mais diversaslinguagens da computação. Trabalho com desenvolvimento 2020.
 ## ⚡ Tecnologias que tenho experiência ⚡
 
 <a><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
